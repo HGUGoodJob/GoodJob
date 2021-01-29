@@ -17,7 +17,8 @@
 
 
 ## 간트차트 
-<img width="1346" alt="KakaoTalk_Photo_2021-01-29-11-51-28" src="https://user-images.githubusercontent.com/74919266/106226345-44f53080-622a-11eb-99d6-5f6cfa1215b0.png">
+<img width="1347" alt="스크린샷 2021-01-29 오후 12 55 13" src="https://user-images.githubusercontent.com/43979679/106229781-8e954980-6231-11eb-9f9c-cec535f9884b.png">
+
 
 
 ## 주요 기능
