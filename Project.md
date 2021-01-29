@@ -24,6 +24,8 @@
 <img width="379" alt="스크린샷 2021-01-28 오후 2 10 52" src="https://user-images.githubusercontent.com/43979679/106092917-a1951480-6172-11eb-92ab-4970b48524ba.png">
 
 
+<img width="699" alt="스크린샷 2021-01-29 오전 11 50 49" src="https://user-images.githubusercontent.com/43979679/106225319-3c9bf600-6228-11eb-96f5-4019ec260c4b.png">
+
 
 * 메인 페이지 (하위 메뉴까지) 생성
 
